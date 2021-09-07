@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BFinkelstein23, im a student at Michigan State University.
+- 👋 Hi, I’m @CitrusCryptid, im a student at Michigan State University.
 - 👀 I’m interested in Game development, modding, and other stuff of that sort
 - 🌱 I’m currently learning Web design, 3D modeling, game dev.
 - 💞️ I’m looking to collaborate on GAMES and MODS
