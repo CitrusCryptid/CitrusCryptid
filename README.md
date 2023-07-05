@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CitrusCryptid, im a student at Michigan State University.
 - 👀 I’m interested in Game development, modding, and other stuff of that sort
-- 🌱 I’m currently learning Web design, 3D modeling, game dev.
-- 💞️ I’m looking to collaborate on GAMES and MODS
+- 🌱 I’m a Visual Effects artist
+- 💞️ I’m looking to collaborate on games!
 - 📫 How to reach me: shoot me a message on discord! @CitricCryptid#7163
 
 <!---
